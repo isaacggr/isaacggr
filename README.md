@@ -21,4 +21,5 @@
 <a href = "mailto:isaac.gregorio3@outlook.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white                                                     
 <a href="https://instagram.com/isaac.ggr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+![Snake animation](https://github.com/isaacggr/isaacggr/blob/output/github-contribution-grid-snake.svg)
 </div>
