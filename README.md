@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Isaac Gregorio
 
-- 📚 Aprendendo pelo cc50..
+- 📚 Aprendendo pelo discover rocketseat..
 - 💻 Programador iniciante..
 
 <div>
