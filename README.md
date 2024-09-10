@@ -1,5 +1,5 @@
-<im![Captura de tela 2024-02-18 234948](https://github.com/user-attachments/assets/dcbcc158-bdc7-4726-8c67-71b25e620c33)
-g />
+![Captura de tela 2024-02-18 234948](https://github.com/user-attachments/assets/dcbcc158-bdc7-4726-8c67-71b25e620c33)
+
 
 
 <h1 align="center">Olá 👋, eu sou Isaac</h1>
