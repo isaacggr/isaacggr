@@ -1,11 +1,14 @@
 ![Captura de tela 2024-02-18 234948](https://github.com/user-attachments/assets/dcbcc158-bdc7-4726-8c67-71b25e620c33)
 
+---
+🚀 Olá! Sou Isaac Gregório, apaixonado por tecnologia e desenvolvimento web.  
+Atualmente, estou aprimorando minhas habilidades em **Front-end e Back-end**, focando em **JavaScript, Node.js, Express e MongoDB**.
 
-
+---
 
 - 🔭 Atualmente trabalho em projetos **Pessoais**
 
-- 🎓 estou estudando **Front End** e **Back-end**
+- 🎓 Atualmente estudando **Front-end e Back-end** para me tornar um desenvolvedor Full Stack.
 
 - 💬 Pergunte-me sobre **NodeJs**, **Express** e **MongoDB**
 
@@ -32,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
 </div>
 
 ###
@@ -40,6 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isaacggr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacggr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+### 🐍 Minhas Contribuições:
+![GitHub Contribution Snake](https://github.com/isaacggr/isaacggr/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
@@ -49,9 +56,13 @@
 
 -----
 
-### Últimos Projetos:
-- [Dev links - Rocketseat](https://github.com/isaacggr/Links-Isaac)<br/>
-- [design Login Form](https://github.com/isaacggr/Login-Form)<br/>
+### 🚀 Últimos Projetos:
+- 🔗 **[Dev Links - Rocketseat](https://github.com/isaacggr/Links-Isaac)**  
+  Projeto inspirado no Linktree para centralizar links pessoais com Dark/Light Mode.  
+  
+- 🔑 **[Design Login Form](https://github.com/isaacggr/Login-Form)**  
+  Página de login estilizada com HTML, CSS e JavaScript.  
+
 
 ---
 
