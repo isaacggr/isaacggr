@@ -2,16 +2,12 @@
 
 
 
-<h1 align="center">Olá 👋, eu sou Isaac</h1>
-<h3 align="center">Um apaixonado por desenvolvimento Front End 👨‍💻</h3>
-<img align="right" alt="Coding" width="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 - 🔭 Atualmente trabalho em projetos **Pessoais**
 
-- 🌱 estou estudando **Front End**
+- 🎓 estou estudando **Front End** e **Back-end**
 
-- 💬 Pergunte-me sobre **NodeJs**
+- 💬 Pergunte-me sobre **NodeJs**, **Express** e **MongoDB**
 
 
 <h3 align="left">Contatos:</h3>
