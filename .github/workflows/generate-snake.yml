@@ -16,16 +16,19 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Create dist directory
+        run: mkdir -p dist  # Cria a pasta dist se não existir
+
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg  # Corrigido para garantir o caminho correto
+          outputs: dist/snake.svg  # Garante que o arquivo vá para a pasta dist/
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist  # Garante que o arquivo será colocado na pasta dist/
+          build_dir: dist  # Certifique-se de que a pasta dist exista
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
