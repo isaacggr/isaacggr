@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner personalizado" style="width:100%; max-height:300px; object-fit:cover;" />
+  <img src="./banner.jpg" alt="Banner personalizado" style="width:100%; max-height:300px; object-fit:cover;" />
 </div>
 
 <div align="center">
