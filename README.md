@@ -64,4 +64,10 @@ Atualmente, estou aprimorando minhas habilidades em **Front-end e Back-end**, fo
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isaacggr/isaacggr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isaacggr/isaacggr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/isaacggr/isaacggr/output/github-snake.svg" />
+</picture>
+
  **Obrigado por vizualizar meu perfil, em caso de duvidas ou dicas contate-me** <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"/>
