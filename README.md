@@ -1,14 +1,6 @@
 <!-- Início do efeito de onda -->
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-    <defs>
-      <linearGradient id="gradient" x1="39%" y1="1%" x2="61%" y2="99%">
-        <stop offset="5%" stop-color="#4776E6"></stop>
-        <stop offset="95%" stop-color="#8E54E9"></stop>
-      </linearGradient>
-    </defs>
-    <path fill="url(#gradient)" d="M0,160L48,165.3C96,171,192,181,288,181.3C384,181,480,171,576,144C672,117,768,75,864,80C960,85,1056,139,1152,160C1248,181,1344,171,1392,165.3L1440,160L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-  </svg>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7520FF&height=120&section=header"/>
 </div>
 
 <div align="center">
@@ -76,17 +68,8 @@
 
 <!-- Fim do efeito de onda -->
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-    <defs>
-      <linearGradient id="gradient2" x1="39%" y1="1%" x2="61%" y2="99%">
-        <stop offset="5%" stop-color="#4776E6"></stop>
-        <stop offset="95%" stop-color="#8E54E9"></stop>
-      </linearGradient>
-    </defs>
-    <path fill="url(#gradient2)" d="M0,160L48,165.3C96,171,192,181,288,181.3C384,181,480,171,576,144C672,117,768,75,864,80C960,85,1056,139,1152,160C1248,181,1344,171,1392,165.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-  </svg>
-</div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7520FF&height=120&section=footer"/>
 
 ---
 
-**Obrigado por visualizar meu perfil! Caso tenha dúvidas ou sugestões, entre em contato.**
+**Obrigado por visualizar meu perfil! Caso tenha dúvidas ou sugestões, entre em contato.** 
