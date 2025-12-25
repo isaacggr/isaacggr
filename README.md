@@ -6,19 +6,19 @@
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7520FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Isaac;Desenvolvedor+Fullstack" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7520FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&lines=Ol%C3%A1+%F0%9F%91%8B%2C+eu+sou+o+Isaac;Desenvolvedor+Backend" alt="Typing SVG" />
     </a>
   </h1>
 </div>
 
 ### 👨‍💻 Sobre Mim
 
--  🔭 Atualmente trabalho em projetos **Pessoais**
--  🎓 Estudando **Análise e Desenvolvimento de Sistemas** para me tornar um desenvolvedor Full Stack
--  💬 Pergunte-me sobre **DDD**, **Spring** e **Java**
--  🌱 Atualmente aprendendo **React-native** para desenvolvimento mobile
--  🎯 Meu objetivo é contribuir para projetos inovadores e impactar positivamente o mundo através da tecnologia
--  ⚡ Curiosidade: Sou apaixonado por resolver problemas complexos e aprender novas tecnologias
+- 🔭 Desenvolvo projetos backend focados em **APIs REST** e **regras de negócio**
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
+- 💬 Experiência com **Java**, **Spring Boot** e modelagem de domínio
+- 🌱 Explorando **React Native** como complemento técnico
+- 🎯 Objetivo profissional: atuar como **Desenvolvedor Backend Júnior**
+
 
 ---
 
@@ -51,21 +51,6 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
-
-
----
-
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacggr&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacggr&layout=compact&theme=tokyonight" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaacggr.isaacggr&" />
-</div>
-
 ---
 
 <div align="center">
@@ -82,4 +67,4 @@
 
 ---
 
-**Obrigado por visualizar meu perfil! Caso tenha dúvidas ou sugestões, entre em contato.** 
+**Obrigado por visualizar meu perfil! Caso tenha dúvidas ou sugestões, entre em [contato](https://www.linkedin.com/in/isaac-gregorio/).** 
